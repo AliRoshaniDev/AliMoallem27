@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 [![git_96px](https://user-images.githubusercontent.com/9213496/100453292-fadbbb80-30cf-11eb-9730-f16051fe2e2f.png)](https://git-scm.com)
 [![github_96px](https://user-images.githubusercontent.com/9213496/100454737-c289ac80-30d2-11eb-8dfd-186678751153.png)](https://github.com)
 [![nodejs_96px](https://user-images.githubusercontent.com/9213496/100453330-ffa06f80-30cf-11eb-8c71-d981220ca5be.png)](https://nodejs.org/en/)
-[![visual_studio_2019_96px](https://user-images.githubusercontent.com/9213496/100453340-0202c980-30d0-11eb-86b9-c2c44c8fbfea.png)](https://visualstudio.microsoft.com/)
+[![visual_studio_code_2019_96px](https://user-images.githubusercontent.com/9213496/100453343-029b6000-30d0-11eb-9f35-ddceaa73e0b1.png)](https://visualstudio.microsoft.com/)
+
+[![visual_studio_code_2019_96px](https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/tailwindcss.svg)](https://tailwindcss.com/)
