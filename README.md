@@ -38,6 +38,3 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img height="80" src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png"></a>&nbsp;&nbsp;
 
 </div>
-
-[![GitHub contributors](https://img.shields.io/github/contributors/JoHoop/personal-website-react.svg)](https://github.com/JoHoop/personal-website-react/graphs/contributors/)
-
