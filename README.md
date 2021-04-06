@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Ali!</h2>
 <div align="center">
-<a href="https://instagram.com/alimoallem27" target="_blank"><img height="50" src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/instagram.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://instagram.com/alimoallem27" target="_blank"><img height="50" src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/instagram.png"></a>&nbsp;&nbsp; -->
 <a href="https://telegram.me/AliMoallem27" target="_blank"><img height="50" src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/telegram.png"></a>&nbsp;&nbsp;
 <a href="https://virgool.io/@alimoallem27" target="_blank"><img height="50" src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/virgool.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/AliMoallem27" target="_blank"><img height="50" src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/twitter.png"></a>&nbsp;&nbsp;
