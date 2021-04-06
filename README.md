@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/alimoallem27">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alimoallem27&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/alimoallem27">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimoallem27&layout=compact&langs_count=12&hide=html,css" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimoallem27)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr />
 
