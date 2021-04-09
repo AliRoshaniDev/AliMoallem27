@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 <a href="https://github.com" target="_blank"><img height="80" src="https://user-images.githubusercontent.com/9213496/100454737-c289ac80-30d2-11eb-8dfd-186678751153.png"></a>&nbsp;&nbsp;
 <a href="https://git-scm.com" target="_blank"><img height="80" src="https://user-images.githubusercontent.com/9213496/100453292-fadbbb80-30cf-11eb-9730-f16051fe2e2f.png"></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/products/xd.html" target="_blank"><img height="80" src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/xd.png"></a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img height="80" src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png"></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img height="80" src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/ps.png"></a>&nbsp;&nbsp;
 
 </div>
